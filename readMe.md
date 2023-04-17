@@ -6,6 +6,8 @@
 - Cliente
 - Pet
 - Serviço
+
+
 relacionamentos : 
       1 PET só pode pertencer a 1 cliente porem pode ter vários SERVIÇOS vinculados
      CLIENTE pode ter vários PETS E solicitar vários SERVIÇOS 
